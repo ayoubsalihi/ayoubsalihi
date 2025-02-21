@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Ayoub Salihi<br><br>### 💻 MERN Developer | Laravel Enthusiast | Tech Explorer<br><br>I'm a passionate **MERN Stack Developer** with experience in **Laravel 11**, always eager to learn and build scalable, efficient, and innovative web applications. Currently, I'm looking for a **PFE internship**, where I can apply my skills and grow as a developer.<br><br>
+# Hi there! 👋 I'm Ayoub Salihi<br><br> 💻 MERN Developer | Laravel Enthusiast | Tech Explorer<br><br>I'm a passionate **MERN Stack Developer** with experience in **Laravel 11**, always eager to learn and build scalable, efficient, and innovative web applications. Currently, I'm looking for a **PFE internship**, where I can apply my skills and grow as a developer.<br><br>
 
 
 ## 🌐 Socials:
