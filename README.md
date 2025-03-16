@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋! My name is Ayoub Salihi and I'm a full stack developer from Morocco. <br>MERN Developer | Laravel Enthusiast | Tech Explorer</h1>
+<h1 align="left">Hi 👋! My name is Ayoub Salihi and I'm a full stack developer from Morocco. <br>MERN Developer | Laravel Enthusiast | Tech Explorer
+<br> Always wanting to learn</h1>
 
 ###
 
