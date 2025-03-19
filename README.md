@@ -1,6 +1,6 @@
 <img align="center" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 <br/>
-<h1> 💫 About Me:
+<h1> 💫 About Me: <br/>
 Hi 👋! My name is Ayoub Salihi and I'm a full stack developer from Morocco.<br>MERN Developer | Laravel Enthusiast | Tech Explorer<br>Always wanting to learn</h1>
 
 
