@@ -17,7 +17,6 @@ Hi 👋! My name is Ayoub Salihi and I'm a full stack developer from Morocco.<br
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 [![](https://visitcount.itsvg.in/api?id=ayoubsalihi&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
